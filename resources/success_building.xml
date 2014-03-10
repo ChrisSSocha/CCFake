@@ -1,0 +1,16 @@
+<Projects>
+  <Project name="Success"
+           activity="Building"
+           lastBuildStatus="Success"
+           lastBuildLabel="13"
+           lastBuildTime="2005-09-15T17:33:07.6447696+01:00"
+           nextBuildTime="2005-10-04T14:31:51.7799600+01:00"
+           webUrl="http://localhost:4567"/>
+  <Project name="Success"
+           activity="Sleeping"
+           lastBuildStatus="Success"
+           lastBuildLabel="13"
+           lastBuildTime="2005-09-15T17:33:07.6447696+01:00"
+           nextBuildTime="2005-10-04T14:31:51.7799600+01:00"
+           webUrl="http://localhost:4567"/>
+</Projects>
